@@ -11,7 +11,7 @@ A simple Python GUI application that generates strong random passwords.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/password-generator-gui.git
+git clone https://github.com/60yusuf60/password-generator-gui.git
 
 ## Usage
 
@@ -24,4 +24,5 @@ Enter desired password length and click "Generate Password".
 ## Technologies Used
 
 - Python
+
 - Tkinter
